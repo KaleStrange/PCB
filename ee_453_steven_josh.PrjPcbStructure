@@ -1,1 +1,4 @@
-Record=TopLevelDocument|FileName=ee453_pcb_yourname.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=boost converter.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=boost converter.SchDoc|FileName=controller module.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=boost converter.SchDoc|FileName=input module.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=boost converter.SchDoc|FileName=regulator module.SchDoc|SheetNumber= 
